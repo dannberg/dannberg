@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dannberg
 - 👀 I’m interested in engineering, finance, and the spaces where those departments overlap
-- 🏘 I'm Director of Community at [Vantage](https://vantage.sh)
-- 📖 I'm a FinOps Aficionado and a FinOps Certified Practitioner
+- 🏘 Director of Community at [Vantage](https://vantage.sh)
+- 📖 FinOps Aficionado and a FinOps Certified Practitioner
 - 🐕 Formerly FinOps @ [Datadog](https://www.datadoghq.com/), [FullStory](https://www.fullstory.com/)
 - ✍️ I also love writing, both on [my website](https://dannb.org) and in the form of plays
 - 🗞 People seem to really like my [monthly newsletter](https://dannberg.substack.com/) and you might, too
